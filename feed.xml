@@ -8,22 +8,56 @@
 <atom:link href="https://evwbr.github.io/ultimas1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/ultimas1/</link>
 <description>Últimas notícias reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 14 Jan 2026 09:11:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 11:11:23 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Calor intenso marca o verão na capital brasileira]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-01/viva-maria-explica-como-se-proteger-do-verao</link>
+<title><![CDATA[Fortaleza anuncia programação gratuita do carnaval com grandes atrações]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-01/atracoes-do-ciclo-carnavalesco-de-fortaleza-sao-anunciadas</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 14 Jan 2026 08:47:00 GMT</pubDate>
+<pubDate>Wed, 14 Jan 2026 11:00:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1674914 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A capital brasileira enfrenta um verão com temperaturas que ultrapassam os 40 graus, causando desconforto e desafios para a população. O calor intenso, aliado a um ar abafado e sensação térmica elevada, tem sido motivo de preocupação e inspiração para reflexões sobre a cidade.]]></description>
+<guid isPermaLink="false"><![CDATA[1674913 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Fortaleza prepara quatro semanas de carnaval com programação gratuita e descentralizada, abrangendo 12 regionais da cidade. O evento contará com 25 polos e artistas locais e nacionais, incluindo Joelma, Dudu Nobre e Banda Eva.]]></description>
 <content:encoded><![CDATA[
-<p>A capital brasileira enfrenta um verão com temperaturas que ultrapassam os 40 graus, causando desconforto e desafios para a população. O calor intenso, aliado a um ar abafado e sensação térmica elevada, tem sido motivo de preocupação e inspiração para reflexões sobre a cidade.</p>
-<p>O verão na cidade é conhecido por seu calor extremo, que já inspirou a artista Fernanda Abreu em 1992 a compor músicas sobre o tema. Atualmente, a situação permanece crítica, com o calor sendo descrito como um “purgatório da beleza e do caos”, refletindo a dualidade da cidade.</p>
-<p>Apesar de rápidas pancadas de chuva, o ar continua abafado, e a sensação térmica torna-se quase insuportável. A população precisa lidar diariamente com essas condições adversas, que afetam o bem-estar e a rotina dos moradores.</p>
-<p>A jornalista e escritora Sonia Hirsch compartilha suas experiências para enfrentar esse clima rigoroso, mostrando como é possível sobreviver a temperaturas tão elevadas. A adaptação e a solidariedade são fundamentais para enfrentar esse cenário.</p>
-<p></p>
+<p>Fortaleza prepara quatro semanas de carnaval com programação gratuita e descentralizada, abrangendo 12 regionais da cidade. O evento contará com 25 polos e artistas locais e nacionais, incluindo Joelma, Dudu Nobre e Banda Eva.</p>
+<p>O prefeito Evandro Leitão informou que os investimentos para o ciclo carnavalesco somam mais de R$ 4,6 milhões, com expectativa de impactar 1,6 milhão de pessoas. A programação inclui 15 atrações nacionais e o convidado Mestre Macaúba, além de diversos artistas da capital cearense.</p>
+<p>Entre as novidades está a instalação de um grande palco na Domingos Olímpio, que receberá shows de Jorge Aragão e Chico César. A secretária de Cultura, Helena Barbosa, destacou o lançamento do aplicativo 'Farol', que facilitará o acesso à programação e incentivará a ocupação dos 25 polos espalhados pela cidade.</p>
+<p>O pré-carnaval começa na próxima sexta-feira, dia 16, com o grupo Fundo de Quintal na Praça do Ferreira às 21h. No sábado, Dudu Nobre se apresenta no Aterrinho da Praia de Iracema às 20h30, enquanto a Banda Eva faz show na Barra do Ceará a partir das 20h. A programação completa está disponível nos canais oficiais da prefeitura e da Secretaria de Cultura.</p>
+<p>Acompanhe toda a programação do carnaval de Fortaleza para aproveitar as diversas atrações gratuitas e celebrar a cultura local.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[USP desenvolve bateria funcional de nióbio recarregável]]></title>
+<link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/usp-desenvolve-bateria-funcional-de-niobio-de-3-volts</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 14 Jan 2026 10:05:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1674910 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Universidade de São Paulo criou uma bateria de nióbio que alcança 3 volts, é recarregável e funciona em ambientes reais, fora das condições ideais de laboratório. O protótipo já está em fase de testes industriais, mostrando estabilidade e repetibilidade em formatos comerciais.]]></description>
+<content:encoded><![CDATA[
+<p>A Universidade de São Paulo criou uma bateria de nióbio que alcança 3 volts, é recarregável e funciona em ambientes reais, fora das condições ideais de laboratório. O protótipo já está em fase de testes industriais, mostrando estabilidade e repetibilidade em formatos comerciais.</p>
+<p>O principal desafio para a construção da bateria de nióbio era a degradação do metal em ambientes eletroquímicos convencionais, especialmente na presença de água e oxigênio. A equipe da USP conseguiu controlar o ambiente químico para estabilizar o nióbio, criando uma proteção inteligente chamada NB-RAM, que permite ao nióbio mudar de estado eletrônico sem se degradar, inspirado em sistemas biológicos.</p>
+<p>Grande parte do avanço no desenvolvimento da bateria é resultado do trabalho da pesquisadora Luana Italiano, que dedicou dois anos ao refinamento do sistema. Ela realizou dezenas de versões experimentais para garantir estabilidade, repetibilidade e controle fino dos parâmetros, equilibrando a proteção do material para evitar a degradação sem comprometer a entrega de energia.</p>
+<p>O sistema desenvolvido funciona de forma estável não apenas em laboratório, mas também em formatos próximos aos usados pela indústria, como células tipo coin e pouch. Em parceria com a Universidade Estadual de Campinas, a bateria foi testada em ciclos de carga e descarga, comprovando sua viabilidade em ambientes controlados.</p>
+<p>A tecnologia já tem patente depositada pela USP e representa um avanço importante para a ciência brasileira, mostrando que o país pode liderar no desenvolvimento tecnológico ao priorizar a pesquisa científica. A bateria de nióbio alcança a faixa de tensão da maioria das baterias comerciais atuais, com 3 volts.</p>
+<p>O desenvolvimento da bateria de nióbio pela USP reforça o potencial do Brasil em inovação tecnológica aplicada a soluções energéticas sustentáveis.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Salário mínimo completa 90 anos no Brasil]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/lei-do-salario-minimo-que-faz-90-anos-organizou-relacoes-de-trabalho</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 14 Jan 2026 10:02:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1674916 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A lei que instituiu o salário mínimo no Brasil completa 90 anos nesta quarta-feira, 14. Criada em 1936 e regulamentada em 1940, a legislação foi resultado das lutas dos trabalhadores e marcou uma reordenação social importante no país.]]></description>
+<content:encoded><![CDATA[
+<p>A lei que instituiu o salário mínimo no Brasil completa 90 anos nesta quarta-feira, 14. Criada em 1936 e regulamentada em 1940, a legislação foi resultado das lutas dos trabalhadores e marcou uma reordenação social importante no país.</p>
+<p>O primeiro artigo da lei estabeleceu que todo trabalhador tem direito a um salário mínimo capaz de atender às suas necessidades básicas, como alimentação, habitação, vestuário, higiene e transporte. Antes dessa legislação, não existia um valor mínimo obrigatório para o pagamento dos serviços prestados pelos trabalhadores, caracterizando os contratos como civis e sem proteção salarial mínima.</p>
+<p>Movimentos de trabalhadores e influências internacionais, como a legislação avançada do Uruguai, contribuíram para a evolução da legislação trabalhista no Brasil desde o final do século 19. O período marcou a transição de uma sociedade agroexportadora para uma mais urbana e industrial, promovendo uma reorganização das relações trabalhistas.</p>
+<p>O então presidente Getúlio Vargas enfrentou pressões das elites econômicas, resistindo e ao mesmo tempo se adaptando estrategicamente às mudanças sociais e políticas. Apesar das desconfianças do setor agrário, a legislação do salário mínimo foi vista como um instrumento de estabilização social e controle político.</p>
+<p>A conquista do salário mínimo foi fundamental para a regulação das relações de trabalho, proporcionando aos trabalhadores uma maior possibilidade de sobrevivência. Essa legislação representa um marco importante na história das conquistas de cidadania da classe trabalhadora brasileira.</p>
+<p>A celebração dos 90 anos do salário mínimo destaca sua importância na proteção dos direitos dos trabalhadores e na estruturação das relações sociais no Brasil.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
