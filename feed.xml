@@ -8,90 +8,172 @@
 <atom:link href="https://evwbr.github.io/ultimas1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/ultimas1/</link>
 <description>Últimas notícias reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 28 Apr 2026 19:15:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 21:15:36 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Banco do Brasil lança boleto com Pix automático para contas recorrentes]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes</link>
+<title><![CDATA[Prazo para análise do regime drawback cai mais de 50%]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mdic-reduz-prazo-de-analise-de-incentivo-exportacao-pela-metade</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 18:33:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 20:32:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687527 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais por meio do Pix. A inovação facilita o pagamento de contas como luz e mensalidades, dispensando a necessidade de autorizações mensais após a primeira autorização do cliente.]]></description>
+<guid isPermaLink="false"><![CDATA[1687545 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Ministério do Desenvolvimento, Indústria, Comércio e Serviços anunciou a redução do prazo para análise dos pedidos do regime drawback, que é um importante incentivo às exportações brasileiras. Com novas portarias, o tempo de avaliação passou de até 60 dias para menos de 30 dias, simplificando o processo e facilitando o acesso das empresas ao benefício.]]></description>
 <content:encoded><![CDATA[
-<p>O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais por meio do Pix. A inovação facilita o pagamento de contas como luz e mensalidades, dispensando a necessidade de autorizações mensais após a primeira autorização do cliente.</p>
-<p>A funcionalidade permite que, ao pagar um boleto com código QR via Pix, o cliente autorize que os próximos pagamentos sejam feitos automaticamente. Os boletos futuros são agendados e o valor é debitado na data de vencimento sem a necessidade de novas autorizações mensais. A ferramenta está disponível para usuários de qualquer instituição financeira, não sendo obrigatório ter conta no Banco do Brasil.</p>
-<p>Para os consumidores, a principal vantagem é a praticidade, já que elimina a necessidade de lembrar de pagar cada boleto manualmente ou cadastrar débito automático, que nem sempre está disponível. O processo ocorre em uma única etapa, reduzindo o risco de esquecimentos, e o controle permanece com o cliente, que deve autorizar previamente os pagamentos.</p>
-<p>Do lado das empresas, a ferramenta ajuda a reduzir inadimplência e facilita a conciliação financeira, melhorando o controle dos pagamentos recebidos. O pagamento automático também tende a aumentar a previsibilidade de caixa ao diminuir atrasos e esquecimentos por parte dos clientes.</p>
-<p>A primeira empresa a adotar o novo modelo é a Equatorial Energia, que já oferece a opção para clientes nos estados do Maranhão, Pará, Piauí, Alagoas e Amapá. A expectativa é que a solução seja expandida gradualmente para outras regiões e empresas nos próximos meses, inicialmente para aquelas que utilizam a API de cobrança do Banco do Brasil.</p>
-<p>Essa inovação representa um avanço na integração entre boleto bancário e Pix, simplificando e agilizando o pagamento de contas recorrentes para consumidores e empresas.</p>
+<p>O Ministério do Desenvolvimento, Indústria, Comércio e Serviços anunciou a redução do prazo para análise dos pedidos do regime drawback, que é um importante incentivo às exportações brasileiras. Com novas portarias, o tempo de avaliação passou de até 60 dias para menos de 30 dias, simplificando o processo e facilitando o acesso das empresas ao benefício.</p>
+<p>As mudanças promovem a simplificação dos procedimentos, eliminando etapas intermediárias no processo de análise. Antes, os pedidos passavam por uma avaliação inicial e, posteriormente, as empresas eram convocadas a enviar documentos adicionais. Agora, toda a documentação deve ser apresentada no momento do pedido, agilizando o trâmite.</p>
+<p>O envio dos documentos é realizado por meio do Único Siscomex, sistema que centraliza as operações de comércio exterior no país. As duas portarias publicadas autorizam o envio dos documentos junto ao pedido de inclusão no regime e atualizam os manuais operacionais do drawback, reduzindo o tempo total de espera sem alterar as regras do benefício.</p>
+<p>O drawback é um mecanismo que reduz ou elimina tributos sobre insumos usados na produção de bens destinados à exportação, sendo regulamentado pela Organização Mundial do Comércio. Ele abrange impostos como o de importação, IPI, PIS, Cofins e taxas sobre frete, diminuindo o custo de produção para os exportadores e fortalecendo a competitividade do Brasil no comércio internacional.</p>
+<p>Existem duas modalidades principais do regime: suspensão, que elimina impostos na compra de insumos para produtos que serão exportados, e isenção, que permite a recuperação de tributos pagos anteriormente. Cerca de 1,8 mil empresas utilizam o regime, especialmente nos setores de carnes, mineração, indústria automotiva e química.</p>
+<p>As mudanças visam facilitar o acesso ao regime drawback, contribuindo para a competitividade das empresas brasileiras no mercado internacional.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[São Paulo confirma novo caso de sarampo em 2024]]></title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/sp-confirma-segundo-caso-importado-de-sarampo</link>
+<title><![CDATA[Comissão especial para redução da jornada de trabalho será instalada]]></title>
+<link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/comissao-especial-da-pec-da-reducao-da-jornada-sera-instalada-amanha</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 18:32:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 20:27:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687526 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Secretaria Estadual da Saúde de São Paulo confirmou um novo caso de sarampo identificado no final de março na capital paulista. O paciente, cujo estado de saúde não foi informado, teve o diagnóstico confirmado por exames laboratoriais.]]></description>
+<guid isPermaLink="false"><![CDATA[1687543 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Câmara dos Deputados instalará nesta quarta-feira a comissão especial que analisará a Proposta de Emenda à Constituição 221/19, que trata da redução da jornada de trabalho no Brasil. O colegiado será presidido pelo deputado Alencar Santana, com relatoria do deputado Leo Prates, e terá o prazo de até 40 sessões para apresentar seu parecer.]]></description>
 <content:encoded><![CDATA[
-<p>A Secretaria Estadual da Saúde de São Paulo confirmou um novo caso de sarampo identificado no final de março na capital paulista. O paciente, cujo estado de saúde não foi informado, teve o diagnóstico confirmado por exames laboratoriais.</p>
-<p>Este é o primeiro caso de sarampo registrado no estado em 2024, diferente do ano passado, quando foram contabilizados dois casos importados. Um dos casos anteriores envolveu um bebê de seis meses não vacinado que esteve na Bolívia em janeiro.</p>
-<p>O sarampo é uma doença altamente contagiosa transmitida pelo ar, por meio de tosse, espirro, fala ou respiração. Uma pessoa infectada pode transmitir o vírus para 90% das pessoas próximas que não estejam imunes, o que reforça a importância da vacinação como principal forma de prevenção.</p>
-<p>Os sintomas do sarampo incluem manchas vermelhas no corpo, febre alta acima de 38,5ºC, tosse, conjuntivite, nariz escorrendo e mal-estar intenso. A doença pode evoluir para complicações graves como diarreia intensa, infecções de ouvido, cegueira, pneumonia e encefalite, podendo levar à morte em alguns casos.</p>
-<p>A vacinação contra o sarampo é parte do Calendário Nacional de Vacinação, com a primeira dose aplicada aos 12 meses de idade (tríplice viral) e a segunda dose aos 15 meses (tetra viral). A imunização é fundamental para evitar a disseminação da doença.</p>
-<p>Manter a vacinação em dia é essencial para proteger a população contra o sarampo e evitar novos casos no estado de São Paulo.</p>
+<p>A Câmara dos Deputados instalará nesta quarta-feira a comissão especial que analisará a Proposta de Emenda à Constituição 221/19, que trata da redução da jornada de trabalho no Brasil. O colegiado será presidido pelo deputado Alencar Santana, com relatoria do deputado Leo Prates, e terá o prazo de até 40 sessões para apresentar seu parecer.</p>
+<p>O presidente da Câmara, Hugo Motta, destacou que a comissão conduzirá o debate ouvindo trabalhadores, empresários, o Judiciário, o governo, pesquisadores e universidades. A ideia é construir o melhor texto possível para conceder à classe trabalhadora a redução da jornada sem redução salarial, promovendo mais qualidade de vida com maior tempo para convívio familiar, saúde e lazer.</p>
+<p>Motta também ressaltou que a redução da jornada deve aumentar a produtividade, pois o trabalhador estará mais disposto para desempenhar suas funções. Ele conversou com o presidente do Senado, Davi Alcolumbre, para alinhar a tramitação da proposta entre as duas casas legislativas, com expectativa de votação ainda em maio na comissão e no plenário da Câmara.</p>
+<p>A comissão especial contará com 37 membros titulares e igual número de suplentes. O presidente do colegiado, Alencar Santana, afirmou que haverá um debate amplo, ouvindo diversos setores da sociedade, incluindo econômicos, empresariais e governamentais. O colegiado realizará entre duas e três reuniões semanais para garantir a aprovação da proposta no mês de maio, em homenagem ao trabalhador brasileiro.</p>
+<p>A comissão analisará duas propostas principais: a de Reginaldo Lopes, que reduz a jornada de 44 para 36 horas semanais em um prazo de 10 anos, e a PEC 8/25, de Erika Hilton, que estabelece uma escala de quatro dias de trabalho por semana, limitando a 36 horas. Na prática, as propostas eliminam a escala de seis dias de trabalho por um de descanso (6x1).</p>
+<p>A instalação da comissão representa um passo importante para a discussão da jornada de trabalho no país, com amplo diálogo previsto entre diversos setores da sociedade.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Operação Mare Liberum revela prejuízo bilionário no Porto do Rio]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-04/esquema-de-corrupcao-no-porto-do-rio-causa-prejuizo-de-r-87-bilhoes</link>
+<title><![CDATA[Família brasileira morre em ataque no sul do Líbano]]></title>
+<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/morte-de-brasileiros-expoe-rotina-de-ataques-no-libano-diz-jornalista</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 18:09:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 20:25:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687524 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Operação Mare Liberum, deflagrada no Rio de Janeiro e em Vitória, expôs um esquema de movimentação irregular de mercadorias que causou prejuízo de R$ 87 bilhões desde 2021. Vinte e cinco servidores da Receita Federal, empresários e despachantes foram alvos de mandados de busca e apreensão, com valores em dinheiro e bens de luxo apreendidos.]]></description>
+<guid isPermaLink="false"><![CDATA[1687542 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A brasileira Manal Jaafar, seu marido libanês Ghassan Nader e um dos filhos do casal morreram em ataque israelense no sul do Líbano. Eles estavam no país buscando uma vida mais estável após 12 anos vivendo no Brasil, onde eram parte da comunidade libanesa em Foz do Iguaçu.]]></description>
 <content:encoded><![CDATA[
-<p>A Operação Mare Liberum, deflagrada no Rio de Janeiro e em Vitória, expôs um esquema de movimentação irregular de mercadorias que causou prejuízo de R$ 87 bilhões desde 2021. Vinte e cinco servidores da Receita Federal, empresários e despachantes foram alvos de mandados de busca e apreensão, com valores em dinheiro e bens de luxo apreendidos.</p>
-<p>O esquema investigado funcionava desde 2021 e envolvia três frentes principais: liberação ilegal de mercadorias com redução ou dispensa de multas e tributos, atuação no setor de óleo e gás e recebimento de propina. Processos eram desviados de servidores honestos para integrantes do grupo, que liberavam produtos mesmo com irregularidades, incluindo alimentos como isotônicos e bebidas.</p>
-<p>Durante as buscas, foram encontrados meio milhão de dólares em dinheiro vivo na casa de um despachante aduaneiro, além de 54 garrafas de vinho avaliadas em cerca de R$ 40 mil. O prejuízo estimado nas importações sob suspeita alcança R$ 86 bilhões, valor que ainda está sendo contabilizado com a apreensão de bens e dinheiro.</p>
-<p>As investigações começaram em 2022 e identificaram servidores antigos da Receita Federal envolvidos no esquema. Eles foram afastados, e 50 auditores de outras regiões foram deslocados para reforçar a fiscalização no Porto do Rio. O Sindicato Nacional dos Auditores-Fiscais da Receita acompanha o caso e garante o direito à defesa dos investigados.</p>
-<p>A autoridade portuária Portos Rio esclareceu que não é alvo da investigação e não tem relação com os fatos apurados, que dizem respeito exclusivamente a procedimentos de fiscalização aduaneira. A operação contou com a participação de mais de cem auditores que atuaram na apuração das irregularidades internamente.</p>
-<p>As autoridades continuam o trabalho de fiscalização para garantir a regularidade das operações no Porto do Rio e coibir práticas ilegais no comércio exterior.</p>
+<p>A brasileira Manal Jaafar, seu marido libanês Ghassan Nader e um dos filhos do casal morreram em ataque israelense no sul do Líbano. Eles estavam no país buscando uma vida mais estável após 12 anos vivendo no Brasil, onde eram parte da comunidade libanesa em Foz do Iguaçu.</p>
+<p>O casal tinha dois filhos brasileiros, sendo que um, de 11 anos, também faleceu no bombardeio, enquanto o outro foi hospitalizado após sobreviver ao ataque. A família havia retornado ao Líbano motivada pelo cessar-fogo vigente, apesar de ter deixado a residência anteriormente devido aos ataques.</p>
+<p>Ghassan Nader era empresário e conhecido na comunidade libanesa em Foz do Iguaçu, onde viveu aproximadamente de 1998 a 2010. Ele era um ativista humanitário, intelectual e participava de eventos sociais, além de ter escrito um livro sobre a crise da economia global.</p>
+<p>O jornalista libanês Ali Farhat, amigo da família, classificou os ataques israelenses como um massacre contra civis, ressaltando que o Líbano já perdeu mais de 2,5 mil vítimas, a maioria sem qualquer envolvimento com o conflito. Farhat destacou que Israel bombardeia locais civis, incluindo mesquitas, cemitérios e casas, numa tentativa de genocídio similar ao ocorrido na Faixa de Gaza.</p>
+<p>Ghassan planejava uma vida estável no Líbano com a renda obtida no Brasil, buscando mais tempo para os estudos e vida social da família. A comunidade libanesa recebeu a da morte com muita tristeza e decepção, refletindo o sofrimento de muitos parentes e amigos nas áreas de guerra.</p>
+<p>A tragédia reforça o impacto dos ataques no sul do Líbano, onde civis continuam sendo as principais vítimas do conflito.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Nova lista atualiza espécies aquáticas ameaçadas no Brasil]]></title>
-<link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada</link>
+<title><![CDATA[Deduções no Imposto de Renda para educação e saúde]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-04/ir-2026-fique-atento-despesas-que-podem-ser-deduzidas</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 17:39:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 20:20:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687523 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada, mantendo 490 espécies classificadas. A revisão incluiu 100 novas espécies e excluiu outras 100, com base em critérios internacionais para avaliar riscos de extinção.]]></description>
+<guid isPermaLink="false"><![CDATA[1687541 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Na declaração do Imposto de Renda, é fundamental conhecer as despesas que podem ser deduzidas para reduzir o valor a pagar. Gastos com educação têm limite de abatimento, enquanto despesas médicas podem ser deduzidas sem limite, desde que comprovadas.]]></description>
 <content:encoded><![CDATA[
-<p>A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada, mantendo 490 espécies classificadas. A revisão incluiu 100 novas espécies e excluiu outras 100, com base em critérios internacionais para avaliar riscos de extinção.</p>
-<p>A atualização da lista considerou peixes, arraias, tubarões, estrelas-do-mar e outras espécies que habitam águas continentais e marinhas brasileiras. A avaliação levou em conta o tamanho das populações, distribuição geográfica, condições dos habitats e pressões como captura e poluição, seguindo critérios da União Internacional para a Conservação da Natureza.</p>
-<p>O Ministério do Meio Ambiente publicou também regras para a proteção das espécies classificadas, incluindo a proibição da captura, transporte, comercialização e armazenamento. Diretrizes para a elaboração de planos de recuperação das populações ameaçadas foram definidas para garantir a recuperação dessas espécies.</p>
-<p>Com o novo enquadramento, o pargo terá medidas de proteção e manejo intensificadas para reduzir a sobrepesca e a captura de indivíduos jovens. O ministro da Pesca e Aquicultura destacou a importância de garantir o equilíbrio entre a proteção da espécie, a ciência e a continuidade da atividade pesqueira para o desenvolvimento e a geração de renda no Brasil.</p>
-<p>A atualização da lista reforça o compromisso com a conservação das espécies aquáticas e a sustentabilidade da pesca no país.</p>
+<p>Na declaração do Imposto de Renda, é fundamental conhecer as despesas que podem ser deduzidas para reduzir o valor a pagar. Gastos com educação têm limite de abatimento, enquanto despesas médicas podem ser deduzidas sem limite, desde que comprovadas.</p>
+<p>Os gastos com educação permitem abatimento de até R$ 3.561 por pessoa, abrangendo desde a educação infantil até a pós-graduação. No entanto, despesas como cursos de idiomas, material escolar e gastos com farmácia não são dedutíveis na declaração do Imposto de Renda.</p>
+<p>Despesas médicas não possuem limite para dedução, mas é necessário apresentar recibos e notas fiscais que comprovem os gastos. A comprovação documental é essencial para garantir a validade das deduções perante a Receita Federal.</p>
+<p>A previdência privada, especialmente os planos do tipo PGBL, possibilita a redução da base de cálculo do imposto. Para evitar problemas futuros, é recomendado que o contribuinte guarde todos os comprovantes relacionados à declaração por pelo menos cinco anos.</p>
+<p></p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Estudo revela recuperação da floresta em área de queimadas no Mato Grosso]]></title>
-<link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao</link>
+<title><![CDATA[Família brasileira-libanesa é assassinada em bombardeio no Sul do Líbano]]></title>
+<link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/familia-brasileira-morta-por-israel-buscava-pertences-no-sul-do-libano</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 17:21:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 20:11:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687522 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[Um estudo de 22 anos em Querência, Mato Grosso, avaliou os impactos das secas e queimadas na floresta amazônica pressionada pela agricultura. A pesquisa descartou a tese de savanização e mostrou que a floresta tem capacidade de se recuperar, desde que haja interrupção dos incêndios e preservação das áreas próximas.]]></description>
+<guid isPermaLink="false"><![CDATA[1687534 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Uma família brasileira-libanesa foi morta após a residência onde estavam ser bombardeada no Sul do Líbano. Os corpos ainda não foram encontrados nos escombros da casa totalmente destruída em Bint Jbel.]]></description>
 <content:encoded><![CDATA[
-<p>Um estudo de 22 anos em Querência, Mato Grosso, avaliou os impactos das secas e queimadas na floresta amazônica pressionada pela agricultura. A pesquisa descartou a tese de savanização e mostrou que a floresta tem capacidade de se recuperar, desde que haja interrupção dos incêndios e preservação das áreas próximas.</p>
-<p>A pesquisa foi realizada em uma área de 150 hectares dividida em três partes, onde duas foram submetidas a queimadas com diferentes frequências e uma permaneceu sem fogo. Após os incêndios, houve um empobrecimento da biodiversidade, com queda na riqueza de espécies de até 46,2% nas áreas queimadas a cada três anos. Em 2012, uma tempestade causou a morte de 5% das árvores, mas a floresta mostrou resiliência e iniciou sua recuperação.</p>
-<p>Os cientistas observaram que a floresta afetada pelas queimadas não foi substituída por gramíneas e arbustos típicos da savana, como se pensava anteriormente. Ao contrário, a vegetação florestal voltou a ocupar os espaços degradados, embora com uma composição diferente e uma redução de até 50,8% na diversidade de espécies. A recuperação foi mais rápida no interior da área do que nas bordas, onde a presença de gramíneas ainda é maior.</p>
-<p>Apesar da recuperação, a floresta regenerada apresenta maior vulnerabilidade, com espécies que possuem casca fina e madeira de baixa densidade, tornando-se mais suscetível a novos distúrbios. Além disso, as secas extremas decorrentes das mudanças climáticas pressionam ainda mais a vegetação. Para garantir a regeneração, é fundamental interromper os incêndios e manter áreas de floresta próximas que sirvam como fonte para dispersão de sementes.</p>
-<p>Os cientistas destacam a importância de restaurar áreas degradadas para assegurar o acesso à água e fortalecer a capacidade de hidratação das espécies durante a regeneração. A região, antes conhecida como Arco do Desmatamento, tem sido chamada de Arco da Restauração, refletindo a possibilidade de recuperação da floresta amazônica mesmo em ambientes pressionados pela ação humana.</p>
-<p>A pesquisa reforça a importância da preservação e da restauração para a manutenção da floresta amazônica e seus serviços ambientais essenciais.</p>
+<p>Uma família brasileira-libanesa foi morta após a residência onde estavam ser bombardeada no Sul do Líbano. Os corpos ainda não foram encontrados nos escombros da casa totalmente destruída em Bint Jbel.</p>
+<p>Manal Jaafar, de 47 anos, seu filho Ali Ghassan Nader, de 11 anos, e o pai do garoto, Ghassan Nader, de 57 anos, morreram no ataque. Eles haviam deixado a casa no início do conflito em 2 de março e se refugiado em Beirute, retornando ao Sul do Líbano após o cessar-fogo para buscar roupas e pertences.</p>
+<p>O irmão mais novo de Ghassan, Bilal Nader, de 43 anos, que vive em Foz do Iguaçu, relatou que Ghassan planejava voltar para Beirute no mesmo dia, mas acabou dormindo na casa antes do bombardeio que ocorreu em 26 de março. O impacto da bomba também feriu outro filho do casal, Kassam Nader, de 21 anos, que recebeu alta hospitalar em 28 de março.</p>
+<p>Bilal enfatizou que Ghassan não tinha ligação com partidos políticos e levava uma vida simples como agricultor de oliveiras. A região onde ele vivia não era comum para combates recentes, sendo composta principalmente por construções civis e população civil normal.</p>
+<p>O Líbano abriga a maior comunidade de brasileiros no Oriente Médio, com 22 mil brasileiros vivendo no país em 2023. O Brasil condenou os ataques ocorridos durante o cessar-fogo, enquanto a Embaixada de Israel no Brasil não respondeu sobre o bombardeio à residência da família.</p>
+<p>A tragédia reforça o impacto do conflito na população civil e a preocupação internacional com a segurança dos brasileiros no Líbano.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Segurança no Rio segue crítica seis meses após megaoperação]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-04/meses-apos-megaoperacao-numero-de-tiroteios-na-penha-continua-igual</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 20:08:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1687537 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Seis meses após megaoperação policial no Rio de Janeiro que resultou em 122 mortes, a violência continua em níveis semelhantes. Dados recentes mostram que o número de tiroteios permanece praticamente o mesmo, com 40% ocorrendo durante ações policiais.]]></description>
+<content:encoded><![CDATA[
+<p>Seis meses após megaoperação policial no Rio de Janeiro que resultou em 122 mortes, a violência continua em níveis semelhantes. Dados recentes mostram que o número de tiroteios permanece praticamente o mesmo, com 40% ocorrendo durante ações policiais.</p>
+<p>No período de seis meses após a megaoperação, foram registrados 37 tiroteios, número próximo ao registrado nos seis meses anteriores. No total, 18 pessoas foram baleadas durante essas ocorrências, evidenciando a persistência da violência na cidade.</p>
+<p>O coordenador regional do Instituto Fogo Cruzado no Rio, Carlos Nhanga, destaca que esse tipo de operação é ineficaz, pois ataca apenas a ponta da rede criminosa, sem impactar a estrutura que a sustenta. Ele ressalta que a política de segurança baseada no confronto já dura cerca de 30 anos e não resolve o problema.</p>
+<p>Carlos Nhanga defende que é necessário atacar a estrutura financeira das organizações criminosas, que são transnacionais e operam em vários países. O governo do Rio de Janeiro não se posicionou sobre os dados divulgados até o fechamento desta edição.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[IBGE fará 1º Censo Nacional da População em Situação de Rua]]></title>
+<link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/ibge-anuncia-primeiro-censo-da-populacao-em-situacao-de-rua-para-2028</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 20:04:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1687536 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Instituto Brasileiro de Geografia e Estatística realizará entre 3 e 7 de julho de 2028 o primeiro Censo Nacional da População em Situação de Rua. Os primeiros resultados serão divulgados em dezembro do mesmo ano, marcando uma iniciativa inédita no país para identificar o perfil dessa população.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Brasileiro de Geografia e Estatística realizará entre 3 e 7 de julho de 2028 o primeiro Censo Nacional da População em Situação de Rua. Os primeiros resultados serão divulgados em dezembro do mesmo ano, marcando uma iniciativa inédita no país para identificar o perfil dessa população.</p>
+<p>O lançamento do censo ocorreu em eventos realizados em Belém, Rio de Janeiro e São Paulo, com a presença do presidente do IBGE, Marcio Pochmann. Ele afirmou que a metodologia adotada pelo instituto será referência para outros países e destacou a importância de identificar a origem e o perfil dos brasileiros em situação de rua para orientar transformações nas políticas públicas.</p>
+<p>Pochmann lembrou que a primeira contagem oficial dessa população aconteceu em São Paulo, entre as décadas de 1980 e 1990, quando foram identificadas 3.393 pessoas. Em 2025, o levantamento mostrou um aumento para 101 mil pessoas em situação de rua na capital paulista, evidenciando a necessidade de uma abordagem nacional e orçamento público garantido para enfrentar o problema.</p>
+<p>O censo será desenvolvido em parceria com instituições e movimentos sociais, com metodologia construída em diálogo com a sociedade civil. Pessoas com trajetória de rua serão contratadas para ajudar na realização do levantamento, que contará com a colaboração das 20 coordenações nacionais do Movimento Nacional da População de Rua para assegurar a precisão dos dados.</p>
+<p>Participantes do evento destacaram a importância do censo para dar visibilidade a essa população muitas vezes discriminada. Igor Santos, morador em situação de rua, ressaltou que as circunstâncias da vida levam muitas pessoas a essa condição e pediu ajuda. Flávio Lino, secretário-geral do movimento no Rio de Janeiro, afirmou que a pesquisa impacta a estrutura do país.</p>
+<p>O censo representa um marco na produção de informações oficiais e deve contribuir para políticas públicas mais eficazes para a população em situação de rua.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Roraima recebe R$ 115 milhões para enfrentar migração venezuelana]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-04/roraima-tera-r-115-mi-para-reduzir-impactos-da-migracao-venezuelana</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 19:44:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1687535 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Um acordo firmado prevê a transferência de R$ 115 milhões para o estado de Roraima, com o objetivo de reduzir os impactos da migração venezuelana. Os recursos serão destinados à saúde, educação, segurança pública e sistema prisional,]]></description>
+<content:encoded><![CDATA[
+<p>Um acordo firmado prevê a transferência de R$ 115 milhões para o estado de Roraima, com o objetivo de reduzir os impactos da migração venezuelana. Os recursos serão destinados à saúde, educação, segurança pública e sistema prisional.</p>
+<p>O acordo foi firmado nesta segunda-feira, 28, e prevê a divisão dos recursos em quatro áreas: R$ 36 milhões para saúde, R$ 10 milhões para educação, R$ 63 milhões para segurança pública e R$ 6 milhões para o sistema prisional. Os repasses serão feitos por transferência direta para cada setor correspondente.</p>
+<p>A execução dos recursos será monitorada por órgãos como a Controladoria-Geral da União, os tribunais de contas da União e de Roraima, além dos ministérios públicos Federal e Estadual. A assinatura contou com a presença do governador de Roraima, Edilson Damião, procuradores do estado, representantes da Advocacia-Geral da União e dos ministérios de Direitos Humanos, Justiça, Saúde e Educação.</p>
+<p>O senador de Roraima, Dr. Hiran, destacou a complexidade da Operação Acolhida, realizada desde 2018, que enfrenta a maior diáspora dos últimos cem anos para o Brasil. Ele ressaltou que a permanência dos migrantes no estado gerou uma sobrecarga significativa para a pequena estrutura local.</p>
+<p>O advogado-geral da União substituto, Flávio Roman, afirmou que os R$ 115 milhões representam o reconhecimento formal do custo real da crise migratória, assumido por quem governa e vive em Roraima. Desde 2017, o Brasil recebeu quase 1,5 milhão de venezuelanos, com a principal entrada pelo município de Pacaraima, o que tem sobrecarregado os serviços públicos estaduais.</p>
+<p>Os recursos federais visam apoiar Roraima no enfrentamento dos desafios causados pela migração venezuelana, com acompanhamento rigoroso da aplicação dos valores.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[STF torna pastor Silas Malafaia réu por injúria contra general e generais]]></title>
+<link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/malafaia-vira-reu-no-stf-por-falas-contra-generais-do-exercito</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 19:30:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1687533 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Primeira Turma do Supremo Tribunal Federal decidiu tornar o pastor Silas Malafaia réu pelo crime de injúria contra o comandante do Exército, general Tomás Paiva, e outros generais. A decisão ocorreu após falas do pastor em manifestação em São Paulo, em apoio ao ex-presidente Jair Bolsonaro.]]></description>
+<content:encoded><![CDATA[
+<p>A Primeira Turma do Supremo Tribunal Federal decidiu tornar o pastor Silas Malafaia réu pelo crime de injúria contra o comandante do Exército, general Tomás Paiva, e outros generais. A decisão ocorreu após falas do pastor em manifestação em São Paulo, em apoio ao ex-presidente Jair Bolsonaro.</p>
+<p>Silas Malafaia foi denunciado por injúria e calúnia pela Procuradoria-Geral da República devido a declarações feitas durante um ato em abril do ano passado. Na ocasião, ele chamou os generais de “frouxos, covardes e omissos” e afirmou que os militares “não honram a farda que vestem”.</p>
+<p>A votação na Primeira Turma do STF terminou empatada em 2 a 2, com os ministros Alexandre de Moraes e Flávio Dino votando pelo recebimento da denúncia por injúria e calúnia. Já Cristiano Zanin e Cármen Lúcia entenderam que o pastor deveria responder apenas por injúria.</p>
+<p>Com o empate, foi aplicado o princípio de que o réu deve ser beneficiado em caso de dúvida, tornando Silas Malafaia réu somente pelo crime de injúria. Durante o processo, a defesa afirmou que o pastor usou palavras fortes de forma genérica e que ele já se retratou das declarações.</p>
+<p>Os advogados também alegaram que Malafaia não poderia ser julgado pelo STF por não possuir foro privilegiado. A decisão marca um desdobramento importante no caso envolvendo críticas feitas por Malafaia a autoridades militares.</p>
+<p>Acompanhe as próximas atualizações sobre o caso de Silas Malafaia e as decisões do Supremo Tribunal Federal.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Morre Moncho Monsalve ex-técnico da seleção brasileira de basquete]]></title>
+<link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/morre-moncho-monsalve-ex-tecnico-da-selecao-brasileira-de-basquete</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 19:26:00 GMT</pubDate>
+<category><![CDATA[Últimas Notícias]]></category>
+<guid isPermaLink="false"><![CDATA[1687532 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Moncho Monsalve, ex-técnico da seleção brasileira masculina de basquete, faleceu aos 81 anos nesta terça-feira. Ele comandou o time na conquista da Copa América de 2009, garantindo vaga para o Mundial de 2010.]]></description>
+<content:encoded><![CDATA[
+<p>Moncho Monsalve, ex-técnico da seleção brasileira masculina de basquete, faleceu aos 81 anos nesta terça-feira. Ele comandou o time na conquista da Copa América de 2009, garantindo vaga para o Mundial de 2010.</p>
+<p>Moncho Monsalve foi uma referência no basquete espanhol e teve uma carreira destacada como jogador no Real Madrid, onde conquistou nove títulos entre 1963 e 1967, incluindo três Copas da Europa e três Ligas. Após encerrar a carreira de atleta em 1971 devido a uma lesão no joelho, iniciou a trajetória como treinador, comandando clubes importantes da Espanha e seleções nacionais como Brasil, Marrocos e República Dominicana.</p>
+<p>Durante seu comando na seleção brasileira entre 2008 e 2010, Monsalve liderou uma equipe repleta de talentos como Anderson Varejão, Leandrinho Barbosa, Marcelinho Huertas, Marcelinho Machado e Tiago Splitter. A conquista da Copa América de 2009 foi um dos grandes feitos de sua carreira como técnico, assegurando a participação do Brasil no Mundial do ano seguinte.</p>
+<p>Em 2004, Monsalve entrou para o Hall da Fama da Federação Espanhola de Basquete, reconhecimento à sua contribuição para o esporte. O Real Madrid manifestou pesar pela sua morte, destacando-o como uma das grandes lendas do clube e do basquete espanhol, ressaltando seu legado dentro e fora das quadras.</p>
+<p>Moncho Monsalve deixa uma marca importante no basquete mundial, sendo lembrado por sua dedicação como jogador e treinador em diferentes países.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
