@@ -8,89 +8,90 @@
 <atom:link href="https://evwbr.github.io/ultimas1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/ultimas1/</link>
 <description>Últimas notícias reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 28 Apr 2026 17:15:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 19:15:03 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Desmatamento na Amazônia cai 17 no primeiro trimestre de 2026]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-04/desmatamento-na-amazonia-cai-17-no-primeiro-trimestre-de-2026</link>
+<title><![CDATA[Banco do Brasil lança boleto com Pix automático para contas recorrentes]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 17:05:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 18:33:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687521 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O desmatamento na Amazônia Legal registrou queda de 17% entre janeiro e março de 2026, redução equivalente a 7.000 campos de futebol. A diminuição é parte de uma tendência iniciada em agosto de 2025, quando o regime de chuvas começou, e representa a menor área desmatada desde 2017.]]></description>
+<guid isPermaLink="false"><![CDATA[1687527 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais por meio do Pix. A inovação facilita o pagamento de contas como luz e mensalidades, dispensando a necessidade de autorizações mensais após a primeira autorização do cliente.]]></description>
 <content:encoded><![CDATA[
-<p>O desmatamento na Amazônia Legal registrou queda de 17% entre janeiro e março de 2026, redução equivalente a 7.000 campos de futebol. A diminuição é parte de uma tendência iniciada em agosto de 2025, quando o regime de chuvas começou, e representa a menor área desmatada desde 2017.</p>
-<p>A partir de agosto de 2025, o desmatamento na Amazônia apresentou redução de 36%, consolidando uma tendência de queda na derrubada da floresta. Territórios indígenas se destacaram como os que menos desmataram, respondendo por apenas 1% do total de desmatamento na região em março de 2026, mostrando a importância da preservação dessas áreas.</p>
-<p>Os estados com maiores índices de desmatamento foram Mato Grosso, Roraima e Pará, sendo que Roraima foi o único a registrar aumento no período de oito meses comparado ao ano anterior. Municípios como Caracaraí e Rorainópolis, em Roraima, tiveram as maiores áreas afetadas pela derrubada da floresta.</p>
-<p>A Área de Proteção Ambiental Triunfo do Xingu, no Pará, apresentou destaque negativo, com perda equivalente a mais de 3.000 campos de futebol, correspondendo a mais de 95% do desmatamento no município de São Félix do Xingu. Essa região é a quinta mais desmatada da Amazônia no período analisado.</p>
-<p>A derrubada total passou de 419 km² entre janeiro e março de 2025 para 348 km² no mesmo período de 2026. Em março deste ano, houve um aumento pontual de 17% no desmatamento, o que reforça a necessidade de continuidade nas ações de fiscalização e punição contra desmatadores ilegais para manter a tendência de queda.</p>
-<p>O acompanhamento constante e as ações direcionadas são essenciais para preservar a Amazônia e garantir a continuidade da redução do desmatamento.</p>
+<p>O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais por meio do Pix. A inovação facilita o pagamento de contas como luz e mensalidades, dispensando a necessidade de autorizações mensais após a primeira autorização do cliente.</p>
+<p>A funcionalidade permite que, ao pagar um boleto com código QR via Pix, o cliente autorize que os próximos pagamentos sejam feitos automaticamente. Os boletos futuros são agendados e o valor é debitado na data de vencimento sem a necessidade de novas autorizações mensais. A ferramenta está disponível para usuários de qualquer instituição financeira, não sendo obrigatório ter conta no Banco do Brasil.</p>
+<p>Para os consumidores, a principal vantagem é a praticidade, já que elimina a necessidade de lembrar de pagar cada boleto manualmente ou cadastrar débito automático, que nem sempre está disponível. O processo ocorre em uma única etapa, reduzindo o risco de esquecimentos, e o controle permanece com o cliente, que deve autorizar previamente os pagamentos.</p>
+<p>Do lado das empresas, a ferramenta ajuda a reduzir inadimplência e facilita a conciliação financeira, melhorando o controle dos pagamentos recebidos. O pagamento automático também tende a aumentar a previsibilidade de caixa ao diminuir atrasos e esquecimentos por parte dos clientes.</p>
+<p>A primeira empresa a adotar o novo modelo é a Equatorial Energia, que já oferece a opção para clientes nos estados do Maranhão, Pará, Piauí, Alagoas e Amapá. A expectativa é que a solução seja expandida gradualmente para outras regiões e empresas nos próximos meses, inicialmente para aquelas que utilizam a API de cobrança do Banco do Brasil.</p>
+<p>Essa inovação representa um avanço na integração entre boleto bancário e Pix, simplificando e agilizando o pagamento de contas recorrentes para consumidores e empresas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Lançado o 1º Censo Nacional da População em Situação de Rua]]></title>
-<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-04/ibge-lanca-primeiro-censo-nacional-da-populacao-em-situacao-de-rua</link>
+<title><![CDATA[São Paulo confirma novo caso de sarampo em 2024]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/sp-confirma-segundo-caso-importado-de-sarampo</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 16:46:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 18:32:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687519 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O IBGE iniciou o lançamento do primeiro Censo Nacional da População em Situação de Rua, com atividades em várias capitais brasileiras. O objetivo é mapear e caracterizar essa população para fortalecer políticas públicas que promovam dignidade e inclusão social.]]></description>
+<guid isPermaLink="false"><![CDATA[1687526 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Secretaria Estadual da Saúde de São Paulo confirmou um novo caso de sarampo identificado no final de março na capital paulista. O paciente, cujo estado de saúde não foi informado, teve o diagnóstico confirmado por exames laboratoriais.]]></description>
 <content:encoded><![CDATA[
-<p>O IBGE iniciou o lançamento do primeiro Censo Nacional da População em Situação de Rua, com atividades em várias capitais brasileiras. O objetivo é mapear e caracterizar essa população para fortalecer políticas públicas que promovam dignidade e inclusão social.</p>
-<p>O Centro Integrado de Atendimento à População em Situação de Rua (CI-POP), localizado na região central do Rio de Janeiro, foi o local escolhido para o lançamento oficial do censo. No espaço, são oferecidos serviços dos governos federal, estadual e municipal, como emissão de documentos e inscrição em programas sociais, atendendo cerca de 200 pessoas diariamente.</p>
-<p>O lançamento do censo está sendo realizado de forma escalonada, tendo começado em Belém, no Pará, e seguindo para outras capitais, incluindo São Paulo. Igor dos Santos, que vive em situação de rua, visitou o centro de atendimento pela primeira vez para buscar ajuda e relatar as dificuldades enfrentadas, destacando a discriminação e o preconceito que sofre.</p>
-<p>A diretora de Geociências do IBGE, Maria do Carmo Bueno, destacou que a população em situação de rua sempre foi invisibilizada e que o censo visa torná-la visível, trazendo informações que auxiliem na criação de políticas públicas eficazes. A coleta de dados está prevista para ocorrer entre os dias 3 e 7 de julho de 2028, após treinamentos e provas piloto para os recenseadores.</p>
-<p>Os primeiros resultados do censo devem ser divulgados em dezembro de 2028, contribuindo para o desenvolvimento de políticas voltadas a essa população.</p>
+<p>A Secretaria Estadual da Saúde de São Paulo confirmou um novo caso de sarampo identificado no final de março na capital paulista. O paciente, cujo estado de saúde não foi informado, teve o diagnóstico confirmado por exames laboratoriais.</p>
+<p>Este é o primeiro caso de sarampo registrado no estado em 2024, diferente do ano passado, quando foram contabilizados dois casos importados. Um dos casos anteriores envolveu um bebê de seis meses não vacinado que esteve na Bolívia em janeiro.</p>
+<p>O sarampo é uma doença altamente contagiosa transmitida pelo ar, por meio de tosse, espirro, fala ou respiração. Uma pessoa infectada pode transmitir o vírus para 90% das pessoas próximas que não estejam imunes, o que reforça a importância da vacinação como principal forma de prevenção.</p>
+<p>Os sintomas do sarampo incluem manchas vermelhas no corpo, febre alta acima de 38,5ºC, tosse, conjuntivite, nariz escorrendo e mal-estar intenso. A doença pode evoluir para complicações graves como diarreia intensa, infecções de ouvido, cegueira, pneumonia e encefalite, podendo levar à morte em alguns casos.</p>
+<p>A vacinação contra o sarampo é parte do Calendário Nacional de Vacinação, com a primeira dose aplicada aos 12 meses de idade (tríplice viral) e a segunda dose aos 15 meses (tetra viral). A imunização é fundamental para evitar a disseminação da doença.</p>
+<p>Manter a vacinação em dia é essencial para proteger a população contra o sarampo e evitar novos casos no estado de São Paulo.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Redução da jornada 6x1 estimula empreendedorismo e melhora qualidade de vida]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro</link>
+<title><![CDATA[Operação Mare Liberum revela prejuízo bilionário no Porto do Rio]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-04/esquema-de-corrupcao-no-porto-do-rio-causa-prejuizo-de-r-87-bilhoes</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 16:14:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 18:09:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687518 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A proposta de reduzir a jornada de trabalho da escala 6x1 para dois dias de descanso por semana traz benefícios para a qualidade de vida e impulsiona o empreendedorismo. O ministro Paulo Pereira destaca que essa mudança cria mais tempo livre e autonomia para os trabalhadores, especialmente os de menor renda, fomentando novas oportunidades econômicas.]]></description>
+<guid isPermaLink="false"><![CDATA[1687524 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Operação Mare Liberum, deflagrada no Rio de Janeiro e em Vitória, expôs um esquema de movimentação irregular de mercadorias que causou prejuízo de R$ 87 bilhões desde 2021. Vinte e cinco servidores da Receita Federal, empresários e despachantes foram alvos de mandados de busca e apreensão, com valores em dinheiro e bens de luxo apreendidos.]]></description>
 <content:encoded><![CDATA[
-<p>A proposta de reduzir a jornada de trabalho da escala 6x1 para dois dias de descanso por semana traz benefícios para a qualidade de vida e impulsiona o empreendedorismo. O ministro Paulo Pereira destaca que essa mudança cria mais tempo livre e autonomia para os trabalhadores, especialmente os de menor renda, fomentando novas oportunidades econômicas.</p>
-<p>Paulo Pereira participou do programa Bom Dia, Ministro, e afirmou que a redução da jornada de trabalho favorece a economia ao estimular iniciativas empreendedoras. Ele ressaltou que a nova escala, com dois dias de folga semanal, permitirá que muitas pessoas utilizem esse tempo extra para gerar renda, seja por meio de aplicativos, serviços novos ou preparação para mudança de carreira.</p>
-<p>O ministro destacou que a proposta representa o espírito da autonomia e liberdade de escolha sobre o uso do próprio tempo. Pereira ainda reforçou que a mudança terá impacto positivo, especialmente para trabalhadores de menor renda, que enfrentam maiores dificuldades.</p>
-<p>Paulo Pereira afirmou que as críticas à redução da jornada refletem discursos históricos contrários a avanços trabalhistas e que o medo de impactos negativos na economia já existiu em outras ocasiões, como na implementação do salário mínimo e do décimo terceiro. Ele ressaltou que a economia brasileira permanece forte apesar dessas mudanças.</p>
-<p>O governo está atento para adotar medidas que amenizem possíveis impactos da nova escala, caso sejam necessários. Estima-se que entre 10% e 15% dos empreendedores, cerca de quatro a cinco milhões de pessoas, possam ser afetados. Para isso, serão criados mecanismos como benefícios fiscais, apoio e crédito, garantindo que ninguém seja deixado para trás.</p>
-<p>O governo reforça o compromisso de cuidar dos trabalhadores e empreendedores para que a redução da jornada seja benéfica para todos os envolvidos.</p>
+<p>A Operação Mare Liberum, deflagrada no Rio de Janeiro e em Vitória, expôs um esquema de movimentação irregular de mercadorias que causou prejuízo de R$ 87 bilhões desde 2021. Vinte e cinco servidores da Receita Federal, empresários e despachantes foram alvos de mandados de busca e apreensão, com valores em dinheiro e bens de luxo apreendidos.</p>
+<p>O esquema investigado funcionava desde 2021 e envolvia três frentes principais: liberação ilegal de mercadorias com redução ou dispensa de multas e tributos, atuação no setor de óleo e gás e recebimento de propina. Processos eram desviados de servidores honestos para integrantes do grupo, que liberavam produtos mesmo com irregularidades, incluindo alimentos como isotônicos e bebidas.</p>
+<p>Durante as buscas, foram encontrados meio milhão de dólares em dinheiro vivo na casa de um despachante aduaneiro, além de 54 garrafas de vinho avaliadas em cerca de R$ 40 mil. O prejuízo estimado nas importações sob suspeita alcança R$ 86 bilhões, valor que ainda está sendo contabilizado com a apreensão de bens e dinheiro.</p>
+<p>As investigações começaram em 2022 e identificaram servidores antigos da Receita Federal envolvidos no esquema. Eles foram afastados, e 50 auditores de outras regiões foram deslocados para reforçar a fiscalização no Porto do Rio. O Sindicato Nacional dos Auditores-Fiscais da Receita acompanha o caso e garante o direito à defesa dos investigados.</p>
+<p>A autoridade portuária Portos Rio esclareceu que não é alvo da investigação e não tem relação com os fatos apurados, que dizem respeito exclusivamente a procedimentos de fiscalização aduaneira. A operação contou com a participação de mais de cem auditores que atuaram na apuração das irregularidades internamente.</p>
+<p>As autoridades continuam o trabalho de fiscalização para garantir a regularidade das operações no Porto do Rio e coibir práticas ilegais no comércio exterior.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Edital de Apoio a Ações Continuadas no Rio de Janeiro recebe inscrições até 18 de maio]]></title>
-<link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio</link>
+<title><![CDATA[Nova lista atualiza espécies aquáticas ameaçadas no Brasil]]></title>
+<link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 16:10:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 17:39:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687517 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O estado do Rio de Janeiro abriu inscrições para o Edital de Apoio a Ações Continuadas RJ, destinado a projetos culturais que atuam de forma contínua. O edital oferece R$ 19,2 milhões em recursos da Política Nacional Aldir Blanc, distribuídos em dois ciclos de execução nos anos de 2026 e 2027.]]></description>
+<guid isPermaLink="false"><![CDATA[1687523 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada, mantendo 490 espécies classificadas. A revisão incluiu 100 novas espécies e excluiu outras 100, com base em critérios internacionais para avaliar riscos de extinção.]]></description>
 <content:encoded><![CDATA[
-<p>O estado do Rio de Janeiro abriu inscrições para o Edital de Apoio a Ações Continuadas RJ, destinado a projetos culturais que atuam de forma contínua. O edital oferece R$ 19,2 milhões em recursos da Política Nacional Aldir Blanc, distribuídos em dois ciclos de execução nos anos de 2026 e 2027.</p>
-<p>As inscrições devem ser feitas exclusivamente pela plataforma Desenvolve Cultura até o dia 18 de maio. O edital contempla três categorias: circos de lona, grupos e companhias artísticas, além de festivais e eventos culturais. Ao todo, serão selecionados 15 circos de lona, 15 grupos ou companhias artísticas e 12 festivais ou eventos culturais, com valores que variam entre R$ 200 mil e R$ 300 mil por projeto, distribuídos ao longo dos dois anos.</p>
-<p>Podem participar pessoas jurídicas ou microempreendedores individuais da área cultural com até três anos de atuação comprovada no estado do Rio de Janeiro. Os candidatos devem apresentar um plano de atividades estruturado em dois ciclos, detalhando ações, equipe, cronograma, orçamento e local de realização, além de portfólio, planilha orçamentária e previsão de medidas de acessibilidade e sustentabilidade.</p>
-<p>O edital é resultado da Portaria 216 do Ministério da Cultura, que instituiu o Programa Nacional Aldir Blanc de Apoio a Ações Continuadas. O Rio de Janeiro aderiu a esse programa e a outros dois lançados pelo ministério, voltados para formação em gestão pública de cultura e requalificação de infraestrutura cultural. O objetivo é fortalecer a execução de uma política cultural nacional com recursos garantidos para ações contínuas.</p>
-<p>A iniciativa reforça o compromisso do estado do Rio de Janeiro com o fomento e a continuidade das atividades culturais locais por meio de apoio financeiro estruturado.</p>
+<p>A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada, mantendo 490 espécies classificadas. A revisão incluiu 100 novas espécies e excluiu outras 100, com base em critérios internacionais para avaliar riscos de extinção.</p>
+<p>A atualização da lista considerou peixes, arraias, tubarões, estrelas-do-mar e outras espécies que habitam águas continentais e marinhas brasileiras. A avaliação levou em conta o tamanho das populações, distribuição geográfica, condições dos habitats e pressões como captura e poluição, seguindo critérios da União Internacional para a Conservação da Natureza.</p>
+<p>O Ministério do Meio Ambiente publicou também regras para a proteção das espécies classificadas, incluindo a proibição da captura, transporte, comercialização e armazenamento. Diretrizes para a elaboração de planos de recuperação das populações ameaçadas foram definidas para garantir a recuperação dessas espécies.</p>
+<p>Com o novo enquadramento, o pargo terá medidas de proteção e manejo intensificadas para reduzir a sobrepesca e a captura de indivíduos jovens. O ministro da Pesca e Aquicultura destacou a importância de garantir o equilíbrio entre a proteção da espécie, a ciência e a continuidade da atividade pesqueira para o desenvolvimento e a geração de renda no Brasil.</p>
+<p>A atualização da lista reforça o compromisso com a conservação das espécies aquáticas e a sustentabilidade da pesca no país.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[AMB lança cartilha sobre uso da IA na medicina]]></title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/cartilha-orienta-medicos-e-instituicoes-sobre-uso-de-ia-na-medicina</link>
+<title><![CDATA[Estudo revela recuperação da floresta em área de queimadas no Mato Grosso]]></title>
+<link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 13:09:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 17:21:00 GMT</pubDate>
 <category><![CDATA[Últimas Notícias]]></category>
-<guid isPermaLink="false"><![CDATA[1687491 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Associação Médica Brasileira lançou uma cartilha para orientar médicos e instituições de saúde sobre a aplicação da inteligência artificial na prática clínica, alinhada à Resolução nº 2.454/2026 do Conselho Federal de Medicina. O material detalha direitos, deveres e limites para o uso da IA, com foco na segurança jurídica e proteção de dados.]]></description>
+<guid isPermaLink="false"><![CDATA[1687522 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Um estudo de 22 anos em Querência, Mato Grosso, avaliou os impactos das secas e queimadas na floresta amazônica pressionada pela agricultura. A pesquisa descartou a tese de savanização e mostrou que a floresta tem capacidade de se recuperar, desde que haja interrupção dos incêndios e preservação das áreas próximas.]]></description>
 <content:encoded><![CDATA[
-<p>A Associação Médica Brasileira lançou uma cartilha para orientar médicos e instituições de saúde sobre a aplicação da inteligência artificial na prática clínica, alinhada à Resolução nº 2.454/2026 do Conselho Federal de Medicina. O material detalha direitos, deveres e limites para o uso da IA, com foco na segurança jurídica e proteção de dados.</p>
-<p>A cartilha aborda os principais pontos da primeira legislação brasileira dedicada exclusivamente ao uso da inteligência artificial no exercício da medicina, publicada em fevereiro de 2026. A resolução do Conselho Federal de Medicina estabelece um prazo de 180 dias para adequação, com entrada em vigor prevista para agosto. A Associação Médica Brasileira destaca que a IA deve ser utilizada apenas como ferramenta de apoio, mantendo a decisão clínica sob responsabilidade do médico, que preserva autonomia técnica e ética em todas as etapas do cuidado ao paciente.</p>
-<p>O documento detalha direitos dos médicos, como o uso livre da IA como suporte à decisão, e a possibilidade de recusar sistemas sem validação científica ou que apresentem riscos éticos. Entre os deveres fundamentais estão a capacitação contínua, o uso crítico das ferramentas e o registro obrigatório em prontuário sempre que a inteligência artificial for utilizada. São proibidas a delegação de diagnósticos à IA, o uso de sistemas sem segurança de dados e a omissão de informação ao paciente quando a tecnologia tiver papel relevante no atendimento.</p>
-<p>A cartilha classifica os sistemas de inteligência artificial por níveis de risco — baixo, médio, alto e inaceitável —, exigindo governança proporcional para cada categoria. Sistemas de maior impacto clínico demandam estruturas mais robustas de controle, monitoramento e validação. Para garantir segurança jurídica, o registro do uso da IA em prontuário é condição essencial, além da recomendação do Termo de Consentimento Livre e Esclarecido específico para o uso da tecnologia, assegurando transparência ao paciente.</p>
-<p>Com linguagem acessível, o material apresenta um passo a passo para a conformidade com a resolução do Conselho Federal de Medicina, incluindo inventário de sistemas, classificação de risco, validação científica, criação de protocolos internos e capacitação das equipes. A cartilha traz ainda um checklist institucional e um glossário com conceitos relacionados à inteligência artificial na saúde, como IA generativa, modelos de linguagem e vieses algorítmicos. A iniciativa busca apoiar os médicos brasileiros na incorporação segura e ética da inteligência artificial, promovendo inovação sem abrir mão da qualidade assistencial e da autonomia profissional.</p>
-<p>A cartilha da Associação Médica Brasileira reforça a importância do uso ético e seguro da inteligência artificial na medicina para garantir a qualidade do atendimento.</p>
+<p>Um estudo de 22 anos em Querência, Mato Grosso, avaliou os impactos das secas e queimadas na floresta amazônica pressionada pela agricultura. A pesquisa descartou a tese de savanização e mostrou que a floresta tem capacidade de se recuperar, desde que haja interrupção dos incêndios e preservação das áreas próximas.</p>
+<p>A pesquisa foi realizada em uma área de 150 hectares dividida em três partes, onde duas foram submetidas a queimadas com diferentes frequências e uma permaneceu sem fogo. Após os incêndios, houve um empobrecimento da biodiversidade, com queda na riqueza de espécies de até 46,2% nas áreas queimadas a cada três anos. Em 2012, uma tempestade causou a morte de 5% das árvores, mas a floresta mostrou resiliência e iniciou sua recuperação.</p>
+<p>Os cientistas observaram que a floresta afetada pelas queimadas não foi substituída por gramíneas e arbustos típicos da savana, como se pensava anteriormente. Ao contrário, a vegetação florestal voltou a ocupar os espaços degradados, embora com uma composição diferente e uma redução de até 50,8% na diversidade de espécies. A recuperação foi mais rápida no interior da área do que nas bordas, onde a presença de gramíneas ainda é maior.</p>
+<p>Apesar da recuperação, a floresta regenerada apresenta maior vulnerabilidade, com espécies que possuem casca fina e madeira de baixa densidade, tornando-se mais suscetível a novos distúrbios. Além disso, as secas extremas decorrentes das mudanças climáticas pressionam ainda mais a vegetação. Para garantir a regeneração, é fundamental interromper os incêndios e manter áreas de floresta próximas que sirvam como fonte para dispersão de sementes.</p>
+<p>Os cientistas destacam a importância de restaurar áreas degradadas para assegurar o acesso à água e fortalecer a capacidade de hidratação das espécies durante a regeneração. A região, antes conhecida como Arco do Desmatamento, tem sido chamada de Arco da Restauração, refletindo a possibilidade de recuperação da floresta amazônica mesmo em ambientes pressionados pela ação humana.</p>
+<p>A pesquisa reforça a importância da preservação e da restauração para a manutenção da floresta amazônica e seus serviços ambientais essenciais.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
